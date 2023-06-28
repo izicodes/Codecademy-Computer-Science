@@ -29,3 +29,4 @@ elif random_number == 9:
 else:
   answer = "Error"
 
+print("Magic 8-Ball's answer: " + answer)
