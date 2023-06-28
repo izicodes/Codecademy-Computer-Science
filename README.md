@@ -19,9 +19,15 @@
     <tbody>
       <tr>
         <td align="center">Magic Ball 8</td>
-        <td>A Python program that simulates a Magic 8 Ball, providing random answers to questions for a touch of mystic guidance.</td>
+        <td align=justify>A Python program that simulates a Magic 8 Ball, providing random answers to questions for a touch of mystic guidance.</td>
         <td align="center"><i>28 June '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/magic-ball-8">Link</a></td>
+      </tr>
+      <tr>
+        <td align="center">Sal's Shipping</td>
+        <td align=justify>A Python program for Sal's Shippers that determines the cheapest shipping method based on package weight, offering Ground Shipping, Ground Shipping Premium, and Drone Shipping options.</td>
+        <td align="center"><i>28 June '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/sal's%20shipping">Link</a></td>
       </tr>
     </tbody>
   </table>
