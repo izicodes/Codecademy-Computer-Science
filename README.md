@@ -21,7 +21,7 @@
         <td align="center">Magic Ball 8</td>
         <td>A Python program that simulates a Magic 8 Ball, providing random answers to questions for a touch of mystic guidance.</td>
         <td align="center"><i>28 June '23</i></td>
-        <td align="center"><a href="https://github.com/xiacodes/CSharp-Console-Apps/tree/main/CSharp-Console-Apps/CSharp-Console-Apps/HelloWorld">Link</a></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/magic-ball-8">Link</a></td>
       </tr>
     </tbody>
   </table>
