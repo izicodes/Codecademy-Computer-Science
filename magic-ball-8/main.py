@@ -1,12 +1,15 @@
 import random
 
-name = "Tracey"
+name = ""
 question = "Would you like to break up with your fiance? "
 answer = ""
 
 random_number = random.randint(1, 9)
 
-print(name + " asks: " + question)
+if name == "":
+  print("Question: " + question)
+else:
+  print(name + " asks: " + question)
 
 if random_number == 1:
   answer = "Yes - definitely"
