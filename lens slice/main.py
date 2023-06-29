@@ -10,10 +10,22 @@ print("We sell", num_pizzas, "different kinds of pizza!")
 
 pizza_and_prices = [["pepperoni", 2], ["pineapple", 6], ["cheese", 1], ["sausage", 3], ["olives", 2], ["olives", 7], ["mushrooms", 2]]
 
-sorted_pizza_and_prices = sorted(pizza_and_prices, key=lambda x: x[1])
+pizza_and_prices = sorted(pizza_and_prices, key=lambda x: x[1])
 
-print(sorted_pizza_and_prices)
-
-cheapest_pizza = sorted_pizza_and_prices[0]
+cheapest_pizza = pizza_and_prices[0]
 
 print(cheapest_pizza)
+
+priciest_pizza = pizza_and_prices[-1]
+
+print(priciest_pizza)
+
+pizza_and_prices.pop()
+
+pizza_and_prices.insert(6, ["peppers", 2.5])
+
+print(pizza_and_prices)
+
+three_cheapest = pizza_and_prices[:3]
+
+print(three_cheapest)
