@@ -31,9 +31,15 @@
       </tr>
       <tr>
         <td align="center">Gradebook</td>
-        <td align=justify>A Python program that helped students organize their subjects and grades</td>
+        <td align=justify>A Python program that helped students organize their subjects and grades.</td>
         <td align="center"><i>29 June '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/gradebook" target="_blank">Link</a></td>
+      </tr>
+      <tr>
+        <td align="center">Len's Slice</td>
+        <td align=justify>A Python program that uses knowledge of Python lists to organize some pizza sales data.</td>
+        <td align="center"><i>29 June '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/lens%20slice" target="_blank">Link</a></td>
       </tr>
     </tbody>
   </table>
