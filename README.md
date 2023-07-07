@@ -41,6 +41,12 @@
         <td align="center"><i>29 June '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/lens%20slice" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Carly's Clippers</td>
+        <td align=justify>A Python program that uses advanced lists to calculate some important metrics that Carly can use to plan out her business.</td>
+        <td align="center"><i>07 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/carly's%20clippers" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
