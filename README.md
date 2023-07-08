@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to My Codecademy-Computer-Science Repository! ✨</h1>
 
-<p>This repository is where I've compiled all the amazing projects I built during my Codecademy Computer Science course. Here, you'll find a diverse collection of projects that showcase my growth and proficiency in various programming concepts.</p>
+<p>This repository is where I've compiled all the amazing projects and code challenges I completed during my Codecademy Computer Science course. Here, you'll find a diverse collection of projects and code challenges that showcase my growth and proficiency in various programming concepts.</p>
 
 <h2>Project Showcase</h2>
 
@@ -49,9 +49,15 @@
       </tr>
       <tr>
         <td align="center">Physics Class</td>
-        <td align=justify>A Python program that provide students with some functions that will help them calculate some fundamental physical properties</td>
+        <td align=justify>A Python program that provide students with some functions that will help them calculate some fundamental physical properties.</td>
         <td align="center"><i>08 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/physics%20class" target="_blank">Link</a></td>
+      </tr>
+      <tr>
+        <td align="center">Large Power</td>
+        <td align=justify>A Python coding challenge that that tests whether the result of taking the power of one number to another number provides an answer which is greater than 5000.</td>
+        <td align="center"><i>08 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/large%20power" target="_blank">Link</a></td>
       </tr>
     </tbody>
   </table>
