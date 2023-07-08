@@ -55,9 +55,15 @@
       </tr>
       <tr>
         <td align="center">Large Power</td>
-        <td align=justify>A Python coding challenge that that tests whether the result of taking the power of one number to another number provides an answer which is greater than 5000.</td>
+        <td align=justify>A Python coding challenge that tests whether the result of taking the power of one number to another number provides an answer which is greater than 5000.</td>
         <td align="center"><i>08 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/large%20power" target="_blank">Link</a></td>
+      </tr>
+      <tr>
+        <td align="center">Over Budget</td>
+        <td align=justify>A Python coding challenge that sums all of your spendings and compare it to the budget.</td>
+        <td align="center"><i>08 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/over%20budget" target="_blank">Link</a></td>
       </tr>
     </tbody>
   </table>
