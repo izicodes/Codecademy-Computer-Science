@@ -47,6 +47,12 @@
         <td align="center"><i>07 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/carly's%20clippers" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Physics Class</td>
+        <td align=justify>A Python program that provide students with some functions that will help them calculate some fundamental physical properties</td>
+        <td align="center"><i>08 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/physics%20class" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
