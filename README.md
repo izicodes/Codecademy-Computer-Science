@@ -65,6 +65,12 @@
         <td align="center"><i>08 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/over%20budget" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Twice As Large</td>
+        <td align=justify>A Python coding challenge that determines if one number is twice as large as another number</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/twice%20as%20large" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
