@@ -107,6 +107,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/movie%20review" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Max Number</td>
+        <td align=justify>A Python coding challenge that selects which number from three input values is the greatest using conditional statements.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/max%20number" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
