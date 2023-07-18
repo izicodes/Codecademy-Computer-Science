@@ -53,6 +53,25 @@
         <td align="center"><i>08 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/physics%20class" target="_blank">Link</a></td>
       </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
+
+<h2>Code Challenges Showcase</h2>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr >
+        <th width=150 title="Hello">Challenge Name</th>
+        <th align=center>Description</th>
+        <th>Date Completed</th>
+        <th>Link to Challenge</th>
+      </tr>
+    </thead>
+    <tbody>
       <tr>
         <td align="center">Large Power</td>
         <td align=justify>A Python coding challenge that tests whether the result of taking the power of one number to another number provides an answer which is greater than 5000.</td>
