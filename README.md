@@ -85,31 +85,31 @@
       </tr>
       <tr>
         <td align="center">In Range</td>
-        <td align=justify>A Python coding challenge that determines if a number falls within a certain range.</td>
+        <td align=justify>An advanced Python coding challenge that determines if a number falls within a certain range.</td>
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/in%20range" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Same Name</td>
-        <td align=justify>A Python coding challenge that checks different names and determines if they are equal.</td>
+        <td align=justify>An advanced Python coding challenge that checks different names and determines if they are equal.</td>
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/same%20name" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Always False</td>
-        <td align=justify>A Python coding challenge that has a function that contains a contradiction, always returning False.</td>
+        <td align=justify>An advanced Python coding challenge that has a function that contains a contradiction, always returning False.</td>
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/always%20false" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Movie Review</td>
-        <td align=justify>A Python coding challenge that will split the ratings into different ranges and tell the user how the movie was based on the movie’s rating.</td>
+        <td align=justify>An advanced Python coding challenge that will split the ratings into different ranges and tell the user how the movie was based on the movie’s rating.</td>
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/movie%20review" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Max Number</td>
-        <td align=justify>A Python coding challenge that selects which number from three input values is the greatest using conditional statements.</td>
+        <td align=justify>An advanced Python coding challenge that selects which number from three input values is the greatest using conditional statements.</td>
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/max%20number" target="_blank">Link</a></td>
       </tr>
