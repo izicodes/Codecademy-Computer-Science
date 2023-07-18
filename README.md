@@ -83,6 +83,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/not%20sum%20to%20ten" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">In Range</td>
+        <td align=justify>A Python coding challenge that determines if a number falls within a certain range.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/in%20range" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
