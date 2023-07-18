@@ -101,6 +101,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/always%20false" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Movie Review</td>
+        <td align=justify>A Python coding challenge that will split the ratings into different ranges and tell the user how the movie was based on the movie’s rating.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/movie%20review" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
