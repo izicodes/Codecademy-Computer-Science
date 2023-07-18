@@ -89,6 +89,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/in%20range" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Same Name</td>
+        <td align=justify>A Python coding challenge that checks different names and determines if they are equal.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/same%20name" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
