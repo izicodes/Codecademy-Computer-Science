@@ -113,6 +113,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/max%20number" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Append Size</td>
+        <td align=justify>A list Python coding challenge that calculates the length of a list and then append the value to the end of the list.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/append%20size" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
