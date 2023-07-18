@@ -119,6 +119,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/append%20size" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Append Sum</td>
+        <td align=justify>A list Python coding challenge that calculates the sum of the last two elements of a list and appends it to the end.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/append%20sum" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
