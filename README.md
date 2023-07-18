@@ -77,6 +77,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/divisible%20by%20ten" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Not Sum To Ten</td>
+        <td align=justify>A Python coding challenge that determines if two numbers added together are not equal to ten.</td>
+        <td align="center"><i>18 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/not%20sum%20to%20ten" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
