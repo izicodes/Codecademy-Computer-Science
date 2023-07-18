@@ -57,31 +57,31 @@
         <td align="center">Large Power</td>
         <td align=justify>A Python coding challenge that tests whether the result of taking the power of one number to another number provides an answer which is greater than 5000.</td>
         <td align="center"><i>08 July '23</i></td>
-        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/large%20power" target="_blank">Link</a></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/large%20power" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Over Budget</td>
         <td align=justify>A Python coding challenge that sums all of your spendings and compare it to the budget.</td>
         <td align="center"><i>08 July '23</i></td>
-        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/over%20budget" target="_blank">Link</a></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/over%20budget" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Twice As Large</td>
         <td align=justify>A Python coding challenge that determines if one number is twice as large as another number.</td>
         <td align="center"><i>18 July '23</i></td>
-        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/twice%20as%20large" target="_blank">Link</a></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/twice%20as%20large" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Divisible By Ten</td>
         <td align=justify>A Python coding challenge that determines whether or not a number is divisible by ten.</td>
         <td align="center"><i>18 July '23</i></td>
-        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/divisible%20by%20ten" target="_blank">Link</a></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/divisible%20by%20ten" target="_blank">Link</a></td>
       </tr>
       <tr>
         <td align="center">Not Sum To Ten</td>
         <td align=justify>A Python coding challenge that determines if two numbers added together are not equal to ten.</td>
         <td align="center"><i>18 July '23</i></td>
-        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/not%20sum%20to%20ten" target="_blank">Link</a></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/Python%20Code%20Challenges/not%20sum%20to%20ten" target="_blank">Link</a></td>
       </tr>
     </tbody>
   </table>
@@ -98,6 +98,3 @@
 <p>Let's learn and grow together in the exciting world of computer science!</p>
 
 <p>Happy coding!🖥️🙌🏾</p>
-
-
-
