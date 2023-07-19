@@ -150,6 +150,12 @@
         <td align="center"><i>19 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/larger%20list" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">More Than N</td>
+        <td align=justify>A list Python coding challenge that accepts three parameters, a list of numbers, a number to look for, and a number for the number of instances.</td>
+        <td align="center"><i>19 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/more%20than%20n" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
