@@ -156,6 +156,12 @@
         <td align="center"><i>19 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/more%20than%20n" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Combine Sort</td>
+        <td align=justify>A list Python coding challenge that combines and sorts lists together.</td>
+        <td align="center"><i>19 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/combine%20sort" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
