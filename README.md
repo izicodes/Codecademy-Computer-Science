@@ -162,6 +162,12 @@
         <td align="center"><i>19 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/combine%20sort" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Every Three Numbers</td>
+        <td align=justify>An advanced list Python coding challenge that creates a list of numbers up to 100 in increments of 3 starting from a number that is passed to the function.</td>
+        <td align="center"><i>19 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/every%20three%20numbers" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
