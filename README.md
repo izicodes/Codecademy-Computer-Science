@@ -144,6 +144,12 @@
         <td align="center"><i>18 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/append%20sum" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Larger List</td>
+        <td align=justify>A list Python coding challenge that should return the last element of the list that contains more elements.</td>
+        <td align="center"><i>19 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/larger%20list" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
