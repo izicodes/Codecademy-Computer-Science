@@ -180,6 +180,12 @@
         <td align="center"><i>20 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/more%20frequent%20item" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Double Index</td>
+        <td align=justify>An advanced list Python coding challenge that will double a value at a given position.</td>
+        <td align="center"><i>20 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/double%20index" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
