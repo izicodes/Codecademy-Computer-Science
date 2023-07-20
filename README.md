@@ -174,6 +174,12 @@
         <td align="center"><i>20 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/remove%20middle" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">More Frequent Item</td>
+        <td align=justify>An advanced list Python coding challenge that will return the most frequent item in a list.</td>
+        <td align="center"><i>20 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/more%20frequent%20item" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
