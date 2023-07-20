@@ -168,6 +168,12 @@
         <td align="center"><i>19 July '23</i></td>
         <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/every%20three%20numbers" target="_blank">Link</a></td>
       </tr>
+      <tr>
+        <td align="center">Remove Middle</td>
+        <td align=justify>An advanced list Python coding challenge that will remove all elements from a list with an index within a certain range.</td>
+        <td align="center"><i>20 July '23</i></td>
+        <td align="center"><a href="https://github.com/xiacodes/Codecademy-Computer-Science/tree/main/1.%20Python%20Code%20Challenges/remove%20middle" target="_blank">Link</a></td>
+      </tr>
     </tbody>
   </table>
 </div>
